@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Caesar Cipher Algorithm
+  host: Caesar-Cipher-Algorithm
+  disk_quota: 1024M
